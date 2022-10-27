@@ -1,0 +1,17 @@
+Definition of Done:
+              -Finishing all task requirements
+              -Write and build code 
+              -Implemented task passes all required tests
+              -Implemented task is compatible for working on different operating systems and devices
+              -test code 
+
+
+
+
+Definition of Ready for a sprint: It describes the requirements that met the user story and is ready for development
+               -Prioritized sprint backlog 
+               -Defects, user stories and other work the team has committed to are contained in the sprint backlog
+               -No hidden work 
+               -All team members have calculated their individual capacity for the sprint
+               -Full Time on project=X hours per day
+               -All users stories meet the definition of Ready
