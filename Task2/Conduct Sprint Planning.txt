@@ -1,0 +1,30 @@
+Sprint goals:
+        - create basic login/sign up
+        - adding payment system to be able to purchase with credit card
+        - creat database for all kinds of users
+             
+Team Capacity:
+	- 5 members per team
+	- 40 hours per week
+	- 10 hours per sprint
+
+Product backlog Items:
+         
+
+            Epic	                                     User Story
+       Create Account	        As a user , I want to create account so that I can access the application features
+      View Restaurants	        As a user, I want to view restaurants so that I can view their reviews and menu
+     Search Restaurants   	As a user , I want to search restaurants so that I can find specific restaurant
+         View Menu	        As a user , I want to view menu so that I can see the different dishes to make a decision what to eat 
+        Add to Cart	        As a user , I want to add to cart so that I can choose multiple items and see the total price 
+          Purchase	        As a user , I want to purchase so that I can pay for the food I added to the cart 
+    Restaurant views order	As a restaurant , I want to view orders so that I can start preparing the orders to be out for delivery
+
+
+Sprint Tasks:
+       -creat database for all kinds of users
+       -link the paying option with online payment
+       -make best route for delivery using google maps
+       -easy acess&control of the app
+        
+    
